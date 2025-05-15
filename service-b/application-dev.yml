@@ -1,4 +1,4 @@
-# config-repo/service-a/application-dev.yml
+# config-repo/service-b/application-dev.yml
 service:
  name: 이재서
  id: 202035366
