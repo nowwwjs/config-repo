@@ -1,3 +1,4 @@
 # config-repo/service-a/application-dev.yml
 service:
- name: test service for dev-A
+ name: 이재서
+ id: 202035366
